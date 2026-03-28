@@ -8,9 +8,9 @@ function Main() {
         </div>
         {/* anchors  */}
         <div>
-          <a>Home |</a>
-          <a>About |</a>
-          <a>conatct</a>
+          <p>Home</p>
+          <p>About</p>
+          <p>conatct</p>
         </div>
         </nav>
     </div>
