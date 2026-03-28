@@ -8,9 +8,9 @@ function Main() {
         </div>
         {/* anchors  */}
         <div>
-          <a href="#">Home |</a>
-          <a href="#">About |</a>
-          <a href="#">conatct</a>
+          <a>Home |</a>
+          <a>About |</a>
+          <a>conatct</a>
         </div>
         </nav>
     </div>
